@@ -1,0 +1,48 @@
+﻿@model KJMC.BL.DTOs.ServicioDTOs.ServicioUpdateDTO
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoServicio" class="control-label"></label>
+                <input asp-for="TipoServicio" class="form-control" />
+                <span asp-validation-for="TipoServicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescripcionServicio" class="control-label"></label>
+                <input asp-for="DescripcionServicio" class="form-control" />
+                <span asp-validation-for="DescripcionServicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+            <div>
+                <a class="btn btn-danger" asp-action="Index">Cancelar</a>
+                <span style="color:red">@ViewBag.ErrorMessage</span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KJMC.BL.Interfaces/1.0.0": {
+        "dependencies": {
+          "KJMC.BL.DTOs": "1.0.0",
+          "KJMC.EN": "1.0.0"
+        },
+        "runtime": {
+          "KJMC.BL.Interfaces.dll": {}
+        }
+      },
+      "KJMC.BL.DTOs/1.0.0": {
+        "runtime": {
+          "KJMC.BL.DTOs.dll": {}
+        }
+      },
+      "KJMC.EN/1.0.0": {
+        "runtime": {
+          "KJMC.EN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KJMC.BL.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KJMC.BL.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KJMC.EN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

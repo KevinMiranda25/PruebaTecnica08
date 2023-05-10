@@ -1,0 +1,17 @@
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\bin\Debug\net6.0\KJMC.DAL.deps.json
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\bin\Debug\net6.0\KJMC.DAL.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\bin\Debug\net6.0\KJMC.DAL.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\bin\Debug\net6.0\KJMC.EN.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\bin\Debug\net6.0\KJMC.EN.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\bin\Debug\net6.0\KJMC.EN.Interfaces.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\bin\Debug\net6.0\KJMC.EN.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\refint\KJMC.DAL.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\KJMC.DAL.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.DAL\obj\Debug\net6.0\ref\KJMC.DAL.dll

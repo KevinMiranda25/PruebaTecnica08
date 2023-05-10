@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KJMC.BL.DTOs\KJMC.BL.DTOs.csproj" />
+    <ProjectReference Include="..\KJMC.BL.Interfaces\KJMC.BL.Interfaces.csproj" />
+    <ProjectReference Include="..\KJMC.EN.Interfaces\KJMC.EN.Interfaces.csproj" />
+    <ProjectReference Include="..\KJMC.EN\KJMC.EN.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.DAL\\KJMC.DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.DAL\\KJMC.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.DAL\\KJMC.DAL.csproj",
+        "projectName": "KJMC.DAL",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.DAL\\KJMC.DAL.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN.Interfaces\\KJMC.EN.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN.Interfaces\\KJMC.EN.Interfaces.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\KJMC.EN.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\KJMC.EN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN.Interfaces\\KJMC.EN.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN.Interfaces\\KJMC.EN.Interfaces.csproj",
+        "projectName": "KJMC.EN.Interfaces",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN.Interfaces\\KJMC.EN.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\KJMC.EN.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\KJMC.EN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\KJMC.EN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\KJMC.EN.csproj",
+        "projectName": "KJMC.EN",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\KJMC.EN.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.EN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

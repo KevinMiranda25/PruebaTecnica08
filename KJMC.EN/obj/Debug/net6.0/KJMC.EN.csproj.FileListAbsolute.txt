@@ -1,0 +1,12 @@
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\bin\Debug\net6.0\KJMC.EN.deps.json
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\bin\Debug\net6.0\KJMC.EN.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\bin\Debug\net6.0\KJMC.EN.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\KJMC.EN.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\KJMC.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\KJMC.EN.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\KJMC.EN.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\KJMC.EN.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\KJMC.EN.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\refint\KJMC.EN.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\KJMC.EN.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN\obj\Debug\net6.0\ref\KJMC.EN.dll

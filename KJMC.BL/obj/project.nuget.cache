@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYIW+cDx4dFYSc7gHmvPBdCD4MF1jj40MF+FYctmOiMZno3+oLUlUPb+WgmXlJOUjKrQYu7qOaO4kMjjqfDa4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\PracticaTecnica 8-Mayo\\KJMC\\KJMC.BL\\KJMC.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

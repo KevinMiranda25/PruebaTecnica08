@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\bin\Debug\net6.0\KJMC.EN.Interfaces.deps.json
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\bin\Debug\net6.0\KJMC.EN.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\bin\Debug\net6.0\KJMC.EN.Interfaces.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\bin\Debug\net6.0\KJMC.EN.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\bin\Debug\net6.0\KJMC.EN.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\refint\KJMC.EN.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\KJMC.EN.Interfaces.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\PracticaTecnica 8-Mayo\KJMC\KJMC.EN.Interfaces\obj\Debug\net6.0\ref\KJMC.EN.Interfaces.dll
